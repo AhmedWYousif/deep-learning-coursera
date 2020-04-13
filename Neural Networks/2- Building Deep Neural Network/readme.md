@@ -1,5 +1,5 @@
 ## 2 - Outline
-- Initialize the parameters for a two-layer network and for an $L$-layer neural network.
+- Initialize the parameters for a two-layer network and for an L-layer neural network.
 - Implement the forward propagation module (shown in purple in the figure below).
      - Complete the LINEAR part of a layer's forward propagation step.
      - The ACTIVATION function (relu/sigmoid).
