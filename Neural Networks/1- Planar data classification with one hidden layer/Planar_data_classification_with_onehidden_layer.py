@@ -201,24 +201,6 @@ print(np.mean(cache['Z1']) ,np.mean(cache['A1']),np.mean(cache['Z2']),np.mean(ca
 
 #  0.262818640198 0.091999045227 -1.30766601287 0.212877681719
 
-
-# Now that you have computed $A^{[2]}$ (in the Python variable "`A2`"), which contains $a^{[2](i)}$ for every example, you can compute the cost function as follows:
-# 
-# $$J = - \frac{1}{m} \sum\limits_{i = 1}^{m} \large{(} \small y^{(i)}\log\left(a^{[2] (i)}\right) + (1-y^{(i)})\log\left(1- a^{[2] (i)}\right) \large{)} \small\tag{13}$$
-# 
-# **Exercise**: Implement `compute_cost()` to compute the value of the cost $J$.
-# 
-# **Instructions**:
-# - There are many ways to implement the cross-entropy loss. To help you, we give you how we would have implemented
-# $- \sum\limits_{i=0}^{m}  y^{(i)}\log(a^{[2](i)})$:
-# ```python
-# logprobs = np.multiply(np.log(A2),Y)
-# cost = - np.sum(logprobs)                # no need to use a for loop!
-# ```
-# 
-# (you can use either `np.multiply()` and then `np.sum()` or directly `np.dot()`).  
-# Note that if you use `np.multiply` followed by `np.sum` the end result will be a type `float`, whereas if you use `np.dot`, the result will be a 2D numpy array.  We can use `np.squeeze()` to remove redundant dimensions (in the case of single float, this will be reduced to a zero-dimension array). We can cast the array as a type `float` using `float()`.
-
 # In[ ]:
 
 # GRADED FUNCTION: compute_cost
