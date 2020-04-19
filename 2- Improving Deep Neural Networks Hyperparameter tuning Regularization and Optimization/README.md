@@ -13,6 +13,9 @@ After finish, you will:
 - Be able to implement a neural network in TensorFlow. 
 
 ## Syllabus 
-- Practical aspects of Deep Learning
+- [Practical aspects of Deep Learning](Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning)
+  1 - [Initialization](Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Initialization/Initialization.ipynb)
+  2 - [Regularization](Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Regularization/Regularization.ipynb)
+  3 - [Gradient Checking](Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Gradient%20Checking/Gradient%2BChecking.ipynb)
 - Optimization algorithms
 - Hyperparameter tuning, Batch Normalization and Programming Frameworks

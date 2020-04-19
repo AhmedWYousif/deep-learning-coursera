@@ -31,11 +31,12 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
+  - [Week 1 - Quize 1](2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Quiz%20-%20Practical%20aspects%20of%20deep%20learning.md)
+  - [Week 1 - Assignment 1 - Initialization](2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Initialization/Initialization.ipynb)
+  - [Week 1 - Assignment 2 - Regularization](2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Regularization/Regularization.ipynb)
+  - [Week 1 - Assignment 3 - Gradient Checking](2-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201%20-%20Practical%20aspects%20of%20Deep%20Learning/Gradient%20Checking/Gradient%2BChecking.ipynb)
+  - [Week 2 - Assignment 4 - Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
+  - [Week 3 - Assignment 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
 
