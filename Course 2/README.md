@@ -14,8 +14,9 @@ After finish, you will:
 
 ## Syllabus 
 - [Practical aspects of Deep Learning](W1%20-%20Practical%20aspects%20of%20Deep%20Learning)
-  * [Initialization](W1%20-%20Practical%20aspects%20of%20Deep%20Learning/Initialization/Initialization.ipynb)
-  * [Regularization](W1%20-%20Practical%20aspects%20of%20Deep%20Learning/Regularization/Regularization.ipynb)
-  * [Gradient Checking](W1%20-%20Practical%20aspects%20of%20Deep%20Learning/Gradient%20Checking/Gradient%2BChecking.ipynb)
+  * [Initialization Programming Assignment](W1%20-%20Practical%20aspects%20of%20Deep%20Learning/Initialization/Initialization.ipynb)
+  * [Regularization Programming Assignment](W1%20-%20Practical%20aspects%20of%20Deep%20Learning/Regularization/Regularization.ipynb)
+  * [Gradient Checking Programming Assignment](W1%20-%20Practical%20aspects%20of%20Deep%20Learning/Gradient%20Checking/Gradient%2BChecking.ipynb)
 - [Optimization algorithms](W2%20-%20Optimization%20algorithms)
+  * [Optimization Programming Assignment](W2%20-%20Optimization%20algorithms/Optimization_methods.ipynb)
 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
