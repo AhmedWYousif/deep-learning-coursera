@@ -16,15 +16,18 @@ This repo contains all my work for this specialization. All the code and quizzes
 
 - [Course 1: Neural Networks and Deep Learning](Course%201)
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset]()
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer]()
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶]()
-  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application]()
+  - [Week 1 - Quiz 1 - Introduction to deep learning](Course%201/W1%20-%20Introduction%20to%20deep%20learning/Quiz%201.md)
+  - [Week 2 - Quiz 2 - Neural Network Basics](Course%201/W2%20-%20Neural%20Networks%20Basics/Quiz%202.md)
+  - [Week 2 - PA - Python Basics with numpy (optional)](Course%201%5CW2%20-%20Neural%20Networks%20Basics%5CPython_Basics_With_Numpy.ipynb) 
+  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](Course%201%5CW2%20-%20Neural%20Networks%20Basics%5CLogistic_Regression_with_a_Neural_Network_mindset.ipynb)
+  - [Week 3 - Quiz - Shallow Neural Networks](Course%201%5CW3%20-%20Shallow%20neural%20networks%5CQuiz%203.md)
+  - [Week 3 - PA 2 - Planar data classification with one hidden layer](Course%201%5CW3%20-%20Shallow%20neural%20networks%5CPlanar_data_classification_with_onehidden_layer.ipynb)
+  - [Week 4 - Quiz - Key concepts on Deep Neural Networks](Course%201%5CW4%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks%5CQuiz%204.md)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](Course%201%5CW4%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks%5CBuilding_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](Course%201%5CW4%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks%5CDeep_Neural_Network_Application.ipynb)
 
-  - [Week 1 Quiz - Introduction to deep learning]()
-  - [Week 2 Quiz - Neural Network Basics]()
-  - [Week 3 Quiz - Shallow Neural Networks]()
-  - [Week 4 Quiz - Key concepts on Deep Neural Networks]()
+
+
 
 - [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Course%202)
 

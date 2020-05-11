@@ -10,7 +10,8 @@ def sigmoid(Z):
     Returns:
     A -- output of sigmoid(z), same shape as Z
     cache -- returns Z as well, useful during backpropagation
-    """  
+    """
+    
     A = 1/(1+np.exp(-Z))
     cache = Z
     
