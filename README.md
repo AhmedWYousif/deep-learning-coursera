@@ -37,9 +37,9 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 3 - Quiz 3 - Hyperparameter tuning, Batch Normalization, Programming Frameworks](Course%202/W3%20-%20Hyperparameter%20tuning/Quiz%203.md) 
   - [Week 3 - Assignment 5 - TensorFlow Tutorial](Course%202/W3%20-%20Hyperparameter%20tuning/)
 
-- [Course 3: Structuring Machine Learning Projects]()
+- [Course 3: Structuring Machine Learning Projects](Course%203)
 
-  - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)]()
+  - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](Course%203/W1%20-%20Introduction%20to%20ML%20Strategy/Quiz%201.md)
   - [Week 2 Quiz - Autonomous driving (case study)]()
   
 - [Course 4: Convolutional Neural Networks]()
